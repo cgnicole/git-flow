@@ -1,7 +1,7 @@
 const Nicole = () => {
   return (
     <>
-      <h1>Componente Nicole 🥰</h1>
+      <h1>Componente Nicole 🥰🐕‍🦺</h1>
     </>
   );
 };
